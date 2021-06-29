@@ -37,6 +37,6 @@
     "ethereumjs-util": "6.2.0",
     "solidity-coverage": "0.7.7",
     "solidity-docgen": "0.1.1",
-    "solidity-flattener": "git+https://github.com/poanetwork/solidity-flattener.git"
+    "solidity-flattener": "git+https://github.com/defimist/defimist-solidity-flattener.git"
   }
 }
