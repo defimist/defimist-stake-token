@@ -1,0 +1,11 @@
+node_modules
+build
+flat
+coverage
+coverage.json
+.DS_Store
+coverageEnv
+scTopics
+allFiredEvents
+.coverage_artifacts
+.coverage_contracts
